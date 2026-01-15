@@ -1,5 +1,5 @@
-GUILD_ID = "1054160191874158654"      # Replace with your server ID
-CHANNEL_ID = "1246366687738200129"  # Replace with your channel ID
+GUILD_ID = "1054160191874158654"      
+CHANNEL_ID = "1246366687738200129"  
 TIMEZONE = "Asia/Karachi"
 
 # Schedule (24-hour format)
